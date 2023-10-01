@@ -47,9 +47,11 @@
         <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/css-3.svg"><br>
         <span><strong>CSS</strong></span>
     </td>
+</tr>
+<tr>
     <td align="center">
         <img height="64px" width="64px" src="https://cdn.svgporn.com/logos/mysql.svg"><br>
-        <span><strong>MYSQL</strong></span>
+        <span><strong>MYSQL</strong></span> 
     </td>
     <td align="center">
         <img height="64px" width="64px" alt="Firefox" src="https://cdn.svgporn.com/logos/firefox.svg"><br>
