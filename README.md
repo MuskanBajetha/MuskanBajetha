@@ -139,15 +139,6 @@
 
 ---
 
-## 🏆 Achievements  
-
-- **Creative Co-Lead**: Google Developer Group & GFG-ADGIPS Chapter (2024).  
-- **Mentee**: CodessCafe Program (2024).  
-- **Hackathon Finalist**: Semi-finalist in 2 major hackathons.  
-- **Certifications**: Generative AI Study Jam - Google Cloud (2024).  
-
----
-
 ## 👩‍💻 About Me  
 
 - 🎓 B.Tech in AI & Data Science (2023-2027) at **GGSIPU, Delhi**, with a current CGPA of **9.1**.  
@@ -157,13 +148,22 @@
 
 ---
 
+
+## 🏆 Achievements  
+
+- **Creative Co-Lead**: Google Developer Group & GFG-ADGIPS Chapter (2024).  
+- **Mentee**: CodessCafe Program (2024).  
+- **Hackathon Finalist**: Semi-finalist in 2 major hackathons.  
+- **Certifications**: Generative AI Study Jam - Google Cloud (2024).  
+
+---
+
 ## 📫 Connect with Me  
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-muskanbajetha1318@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muskanbajetha1318@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Muskan%20Bajetha-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/muskan-bajetha/)
-[![GitHub](https://img.shields.io/badge/GitHub-MuskanBajetha-lightgrey?style=for-the-badge&logo=github)](https://github.com/MuskanBajetha)
+[![GitHub](https://img.shields.io/badge/GitHub-MuskanBajetha-red?style=for-the-badge&logo=github)](https://github.com/MuskanBajetha)
 
 </div>
 
